@@ -30,5 +30,6 @@ Contributing and Feedback
 
 As a beginner developer, I highly appreciate your feedback, suggestions, and contributions. Feel free to provide guidance, tips, or ideas to enhance the app's structure, functionality, or user experience. Since this is my first time making an app and writing Swift, I am unsure of the quality of my work thus far.
 
+ I DO NOT HAVE A GRAND PLAN FOR THIS, SO FEEL FREEE TO MAKE CHANGES YOU SI FIT:)
+
 Thank you, Tommy
-![image](https://github.com/tommy772/SOFA/assets/137955692/c7eba6b2-87e0-4baf-afe0-7a6d08b18e8e)
