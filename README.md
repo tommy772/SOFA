@@ -1,3 +1,12 @@
+## Tags
+
+- iOS
+- Game Development
+- Card Games
+- Social Games
+- SwiftUI
+
+
 SOFA - A Simple App Project
 
 SOFA is an iOS app that aims to provide a collection of various games for socializing, parties, card games, and more. It serves as a knowledge hub for game enthusiasts, offering rules, instructions, and details about different games.
